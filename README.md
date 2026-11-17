@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="./assets/mag-github-banner.svg" width="100%" alt="Morten A. Giraffe — Strategy / Design / Build / Make It Work" />
+ 
+   <img width="1672" height="941" alt="generated-brand-editorial-hero" src="https://github.com/user-attachments/assets/1a842f22-5bc9-45a7-bd3e-5a311191698d" />
+
 </p>
 
 <p align="center">
@@ -64,3 +65,6 @@ The methods in my Journal are free. When a worksheet, template, or release-contr
 [Bring me the problem](https://www.mortenagiraffe.com/start-a-project) · [Official website](https://www.mortenagiraffe.com/) · [X / @MortenAGiraffe](https://x.com/MortenAGiraffe)
 
 <sub>Morten A. Giraffe · Strategy / Design / Build / Make It Work</sub>
+
+<img width="1200" height="630" alt="carrd-social-share-1200x630" src="https://github.com/user-attachments/assets/2a1d8369-8fba-43a1-b86b-a553b1855d3f" />
+<p align="center">
